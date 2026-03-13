@@ -30,5 +30,6 @@ public class Vehicle {
 
     public void display(){
         System.out.println("speed of car"+" " +speed +"Brand of car "+ brand);
+        // hello
     }
 }

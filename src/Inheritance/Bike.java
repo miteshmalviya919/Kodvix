@@ -15,6 +15,7 @@ public class Bike extends Vehicle{
 
     public void setHashcarrier(boolean hashcarrier) {
         this.hashcarrier = hashcarrier;
+        //hello
     }
 
 

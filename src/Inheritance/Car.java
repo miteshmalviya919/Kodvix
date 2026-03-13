@@ -6,6 +6,8 @@ public class Car extends Vehicle {
 
    public Car( String brand,int speed){
        super(brand,speed);
+
+       //hello
    }
 
     public Car(int door){
